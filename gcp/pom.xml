@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>se.nilden</groupId>
-	<artifactId>gcp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>gcp-hello-world</artifactId>
+	<version>1.0.0</version>
 	<name>gcp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
